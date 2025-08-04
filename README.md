@@ -16,7 +16,7 @@ A front-end project using **HTML, CSS, JavaScript**, and **Bootstrap**.
 PHP, MySQL, HTML, CSS, JavaScript, SQL Server  
 - **Core Skills:** CRUD Operations, Login Systems, Admin Panels, Form Handling
 
-Certificate
+## 📜 Certificate
 Google Soft Skills Program
 Offered by Google, facilitated by Pakistan Freelancers Association (PAFLA)
 Completed: 2024
