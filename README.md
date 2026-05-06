@@ -1,5 +1,5 @@
 # portfolio
-# 👋 Hi, I’m Inshaal  I’m a backend developer with strong skills in PHP with MySQL and .net(mvc) with sql server. Passionate about building secure, database-driven web applications.
+# 👋 Hi, I’m Inshaal  I’m a Full Stack developer with strong skills in PHP with MySQL and .net(mvc) with sql server. Passionate about building secure, database-driven web applications. and can also design front end applications
 
 ---
 
@@ -16,7 +16,7 @@ A Full Stack Web Application Using Asp.Net(MVC) and SqlServer .
 
 ###  Career Path 
 A Full Stack Web Application Using Php and MySql .
-🔗 GitHub Repo: [inshal-inshal/asp.net-project](https://github.com/inshal-inshal/asp.net-project)
+🔗 GitHub Repo: [inshal-inshal/career-path](https://github.com/inshal-inshal/career-path)
 
 
 
