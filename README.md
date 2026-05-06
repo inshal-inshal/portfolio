@@ -14,6 +14,10 @@ A front-end project using **HTML, CSS, JavaScript**, and **Bootstrap**.
 A Full Stack Web Application Using Asp.Net(MVC) and SqlServer .
 🔗 GitHub Repo: [inshal-inshal/asp.net-project](https://github.com/inshal-inshal/asp.net-project)
 
+###  Career Path 
+A Full Stack Web Application Using Php and MySql .
+🔗 GitHub Repo: [inshal-inshal/asp.net-project](https://github.com/inshal-inshal/asp.net-project)
+
 
 
 ## 🛠 Skills
